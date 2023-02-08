@@ -1,0 +1,13 @@
+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
+
+
+ln -f -s ~/public_html/grkaym.shop/ToDoList/public/index.php ~/public_html/index.php
+ln -f -s ~/public_html/grkaym.shop/ToDoList/public/.htaccess ~/public_html/.htaccess
+ln -f -s ~/public_html/grkaym.shop/ToDoList/public/js ~/public_html/js
+ln -f -s ~/public_html/grkaym.shop/ToDoList/public/css ~/public_html/css
+ln -f -s ~/public_html/grkaym.shop/ToDoList/public/img ~/public_html/img
+ln -f -s ~/public_html/grkaym.shop/ToDoList/public/mix-manifest.json ~/public_html/mix-manifest.json
+ln -f -s ~/public_html/grkaym.shop/ToDoList/public/robots.txt ~/public_html/robots.txt
+ln -f -s ~/public_html/grkaym.shop/ToDoList/public/favicon.ico  ~/public_html/favicon.ico
+
+ln -s ~/public_html/grkaym.shop/ToDoList/public/  ~/public_html/
